@@ -1,6 +1,6 @@
+@import url('https://fonts.googleapis.com/css2?family=Archivo+Black&display=swap');
 html {
-  box-sizing: border-box;
- 
+  box-sizing: border-box; 
 }
 
 *,
@@ -34,7 +34,11 @@ h1 {
   text-align:center;
   font-size: 3rem;
   text-shadow:  5px 5px 0px rgba(0,0,0,0.2);
+  font-family: 'Archivo Black', sans-serif;
 
+  span {
+    color:#E8C7D7;
+  }
 }
 
 main {

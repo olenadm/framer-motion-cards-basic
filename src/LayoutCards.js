@@ -35,7 +35,7 @@ const LayoutCards = () => {
 
   return (
     <main>
-        <h1>Layout Cards Animated with Framer Motion</h1>
+        <h1>Layout Cards Animated with <span>Framer Motion</span></h1>
       <div className="layout-cards">
         {items.map((item) => (
           <motion.div
