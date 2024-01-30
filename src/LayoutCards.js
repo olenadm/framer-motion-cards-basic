@@ -103,6 +103,7 @@ const LayoutCards = () => {
           </motion.div>
         )}
       </AnimatePresence>
+      <div className="footer"><a href="https://github.com/olenadm/framer-motion-cards-basic">GitHub</a></div>
   </main>
   );
 };
